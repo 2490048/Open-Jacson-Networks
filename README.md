@@ -28,7 +28,7 @@ Visual components and Python
 ## Program
 
 Developed by : RAHUL RP
-Register number : 24900488
+Register number : 212224240125
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 
